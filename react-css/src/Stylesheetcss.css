@@ -1,0 +1,13 @@
+.buttonclassname{
+    background-color: purple;
+    color: white;
+    padding: 12px;
+    border-radius: 12px;
+
+}
+
+h1{
+    color: blue;
+    font-family:'Courier New', Courier, monospace;
+    padding: 12px;
+}

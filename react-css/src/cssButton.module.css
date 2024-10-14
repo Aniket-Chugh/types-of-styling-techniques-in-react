@@ -1,0 +1,12 @@
+.buttoncss{
+    background-color: aquamarine;
+color: black;
+padding: 12px;
+border-radius: 50%;
+width: 100%;
+}
+
+.h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: burlywood;
+}
